@@ -68,7 +68,6 @@ console.log(phonebook.contacts);
 // снятия денег со счета и проверки баланса.
 
 class Bank {
-    numberCounter = 0;
 
     constructor(name) {
         this.name = name;
